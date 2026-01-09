@@ -8,9 +8,9 @@ Vytvoř program _polevka.py_, který:
 -   ze stránky vytáhne prvky, které obsahují text s ingrediencemi k uvaření česnečky 🚩
     -   jsou 4, pokud je nemůžeš najít, klikni na tlačítko
 -   text ze správných prvků vypíše do konzole ❌
-    -   a zapíše jej také do souboru recept.json ✅
+    -   a zapíše jej také do souboru recept.json 🚩
 
-_Body za úlohu: 40/60_
+_Body za úlohu: 20/60_
 
 ## 2. Playwright
 
@@ -20,6 +20,6 @@ Vytvoř program _secret.py_, který:
 -   vyplní přihlašovací údaje
 -   vypíše do konzole tajnou zprávu, která se objeví po přihlášení
 
-_Body za úlohu: ?/40_
+_Body za úlohu: 38/40_
 
-### Celkový počet bodů: ?/100
+### Celkový počet bodů: 58/100

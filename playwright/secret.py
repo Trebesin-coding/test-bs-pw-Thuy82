@@ -6,7 +6,9 @@ load_dotenv()
 
 login = getenv("LOGIN")
 password = getenv("PASSWORD")
-number = getenv("NUMBER")
+number = getenv("NUMBER") # proč je tu number?
+
+# proč používáte .env? kde je soubor s .env?
 
 def main():
     
